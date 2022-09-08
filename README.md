@@ -1,4 +1,4 @@
-# Nodes Testing (Mocha & Istanbul)
+# Nodes Testing chai
 
 Mengecek fungsi kalkulator, terdiri dari:
 - Pertambahan
